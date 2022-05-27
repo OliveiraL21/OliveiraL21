@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @OliveiraL21.
-- 👀 I’m interested in C# and Angular.
-- 🌱 I’m currently learning C#, Angular and web devolop tools.
-- 📫 How to reach me lucasoliveira508@gmail.com.
-- Information System student and suport N3 developer.
+- 👋 Olá, eu sou o Lucas Oliveira.
+- 👀 Estou interessado em me aperfeiçoar na linguagem C# e aprender mais sobre front-end.
+- 🌱 Atualmente estou aprendo C# e Angular.
+
 
